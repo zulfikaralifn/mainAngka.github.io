@@ -1,0 +1,25 @@
+body {
+  font-family: poppins;
+}
+
+main {
+  background-color: #f9f9f9;
+  text-align: center;
+  margin: 120px auto;
+  padding: 40px;
+  border-radius: 20px;
+  width: 300px;
+  box-shadow: rgba(50, 50, 93, 0.25) 0px 6px 12px -2px, rgba(0, 0, 0, 0.3) 0px 3px 7px -3px;
+}
+
+h1 {
+  margin: -10px 0 -10px 0;
+}
+
+#nilai {
+  font-size: 100px;
+}
+
+button {
+  cursor: pointer;
+}
